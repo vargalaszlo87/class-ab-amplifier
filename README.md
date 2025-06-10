@@ -21,3 +21,14 @@ You can see the measurements value in this picture, the circuit works stabil.
 
 ![output_impedance](https://github.com/user-attachments/assets/663deda5-b5e6-4144-9375-753b6fb849b7)
 
+## 👨‍⚖️ License
+
+Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. See `LICENSE.txt` for more information.
+
+## 📬 Contact
+
+Varga Laszlo - https://vargalaszlo.com - mail@vargalaszlo.com
+
+Project Link: https://github.com/vargalaszlo87/class-ab-amplifier
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://vargalaszlo.com)
