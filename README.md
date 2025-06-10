@@ -9,5 +9,15 @@ You can see the measurements value in this picture, the circuit works stabil.
 
 ![circuit](https://github.com/user-attachments/assets/a938ebe5-cb69-4c85-8075-80e18b088853)
 
+## The Bode chart
 
+![bode](https://github.com/user-attachments/assets/a8a617bb-e470-46c7-a6a6-ae268000c219)
+
+## Input impedance
+
+![input_impedance](https://github.com/user-attachments/assets/1d62266e-1400-4478-a010-711ccbd9bf81)
+
+## Output impedance
+
+![output_impedance](https://github.com/user-attachments/assets/663deda5-b5e6-4144-9375-753b6fb849b7)
 
