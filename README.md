@@ -1,5 +1,5 @@
 # class-ab-amplifier
-Class AB (headphone) amplifier for FlexRadio project.
+Class AB (headphone) amplifier for FlexRadio project, but you can also use it as a standalone circuit.
 
 ## The circuit
 
