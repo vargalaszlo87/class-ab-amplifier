@@ -9,6 +9,12 @@ You can see the measurements value in this picture, the circuit works stabil.
 
 ![image](https://github.com/user-attachments/assets/a55d48ee-23a1-496f-8efb-0ab7ea2c713a)
 
+## The video of operation
+
+https://youtu.be/7gXO0NW1WNk
+
+[![Watch the video](https://img.youtube.com/vi/7gXO0NW1WNk/0.jpg)](https://www.youtube.com/watch?v=7gXO0NW1WNk)
+
 ## The Bode chart
 
 ![bode](https://github.com/user-attachments/assets/a8a617bb-e470-46c7-a6a6-ae268000c219)
